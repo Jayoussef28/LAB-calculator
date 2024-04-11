@@ -1,0 +1,36 @@
+.container {
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.btn-dark {
+  background-color: black;
+  font-size: 40px;
+  color: white;
+  width: 400px;
+  height: 100px;
+  text-align: right;
+}
+
+.btn-light {
+  font-size: 40px;
+  width: 100px;
+  height: 100px;
+}
+
+.btn-warning {
+  font-size: 40px;
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+}
+
+#cancel {
+  width: 200px;
+}
+
+#zero {
+  width: 300px;
+}
